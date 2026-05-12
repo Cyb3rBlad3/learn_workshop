@@ -4,7 +4,7 @@
 
 | 科目 | 文件夹 | 状态 | 已完成章节 | 总章节(预计) | 最后学习日期 |
 |------|--------|------|-----------|-------------|-------------|
-| 大学物理 | `subjects/university_physics` | 进行中 | 3 | 8+ | 2026-05-12 |
+| 大学物理 | `subjects/university_physics` | 进行中 | 5 | 8+ | 2026-05-12 |
 | Git 基础 | `subjects/git_basics` | 进行中 | 1 | 5 | 2026-05-12 |
 
 ### 大学物理详细进度
@@ -17,6 +17,8 @@
   - `01_review_mechanics.md` — 力学统领复习（第一~四章）
   - `02_review_electrostatics.md` — 静电场与导体电介质复习（第五~六章）
   - `03_review_magnetic_field.md` — 恒定磁场复习（第七章，至长直导线磁场）
+  - `04_biot_savart_continued.md` — 圆形载流线圈轴线磁场 + 磁场叠加
+  - `05_ampere_circuital_law.md` — 安培环路定理 + 磁通量与磁场高斯定理
 
 ## 说明
 - 当开始学习新科目时，Agent 会自动在此表中添加条目。
